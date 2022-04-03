@@ -1,2 +1,4 @@
-package task1;public class Food {
+package beforeShare;
+
+public class Food {
 }
